@@ -5,4 +5,4 @@
 nodejs  
 npm  
 yarn(npm install -g yarn)  
-live-server(yarn global add live-server)  
+live-server(yarn global add live-server/ npm install -g live-server)    
